@@ -37,6 +37,13 @@ Pada simulasi Wokwi:
 •	Saat cahaya terang, sensor membaca intensitas tinggi sehingga LED mati. 
 •	Saat kondisi gelap, sensor mendeteksi rendahnya cahaya sehingga LED menyala secara otomatis. 
 ESP32 juga berhasil terhubung ke Blynk melalui jaringan WiFi.
+![Uploading Screenshot 2026-07-04 101529.png…]()
 
-## link youtube : https://youtu.be/_-y-TchipA8?si=fLQna9PhUBa0wCOy  
-## Link Proyek : https://wokwi.com/projects/468314392535876609 
+
+
+## link youtube :
+https://youtu.be/_-y-TchipA8?si=fLQna9PhUBa0wCOy  
+## Link Proyek : 
+https://wokwi.com/projects/468314392535876609 
+## Link Blynk IoT :
+https://blynk.cloud/dashboard/1100481/global/devices/345627 
